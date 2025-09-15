@@ -1,6 +1,6 @@
 numpy==1.26.4
-torch==2.1.0
-torchvision==0.16.0
+torch==2.5.1
+torchvision==0.20.1
 faiss-cpu
 langchain
 langgraph
@@ -9,6 +9,6 @@ PyPDF2
 pytesseract
 sentence-transformers
 streamlit
-transformers
+transformers==4.56.1
 requests
 ollama
